@@ -52,15 +52,15 @@ async function update() {
       value: forecasts[0].province + " " + forecasts[0].city,
       color: "#FDF7C4",
     },
-    weather: {
+    title: {
       value: forecasts[0].casts[0].dayweather,
       color: "#E5D225",
     },
-    daytemp: {
+    update: {
       value: forecasts[0].casts[0].daytemp + "°C",
       color: "#2DEDD8",
     },
-    nighttemp: {
+    author: {
       value: forecasts[0].casts[0].nighttemp + "°C",
       color: "#6E64BB",
     },
