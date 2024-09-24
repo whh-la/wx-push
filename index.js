@@ -53,15 +53,15 @@ async function update() {
       color: "#FDF7C4",
     },
     title: {
-      value: 测试新闻的标题,
+      value: "测试新闻的标题",
       color: "#E5D225",
     },
     update: {
-      value: 2024-09-24,
+      value: "2024-09-24",
       color: "#2DEDD8",
     },
     author: {
-      value: la集团,
+      value: "la集团",
       color: "#6E64BB",
     },
     loveDate: {
